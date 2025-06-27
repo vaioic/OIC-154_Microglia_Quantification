@@ -9,7 +9,7 @@ Research supported by the Optical Imaging Core should be acknowledged and consid
 Please include our RRID in the methods section for any research supported by the OIC. RRID:SCR_021968
 
 ### Sample Acknowledgement
-We thank the Van Andel Institute Optical Imaging Core (RRID:SCR_021968), especially [staff name], for their assistance with [technique/technology]. This research was supported in part by the Van Andel Institute Optical Imaging Core (RRID:SCR_021968) (Grand Rapids, MI).
+>We thank the Van Andel Institute Optical Imaging Core (RRID:SCR_021968), especially [staff name], for their assistance with [technique/technology]. This research was supported in part by the Van Andel Institute Optical Imaging Core (RRID:SCR_021968) (Grand Rapids, MI).
 
 ## Summary of Request
 From Request:
@@ -40,7 +40,7 @@ Imaris images were read in using `imaris-ims-file-reader` as a NumPy compatible 
 
 Fluorescence intensity from the original images (mean, min, max), volume, and surface area calculated using [SciKit-Image](https://scikit-image.org). Sphericity was calculated with the following equation:
 
-($\pi$<sup>1/3</sup> * ( (6*Volume)<sup>2/3</sup>) ) / Surface Area
+(π<sup>1/3</sup> * ( (6*Volume)<sup>2/3</sup>) ) / Surface Area
  
 The numerator is the surface area of a perfect sphere with the same volume as the object, the denominator is the surface area of the object. The more "wrinkled" the surface of the object, the larger the surface area leading to a smaller ratio value. Sphericity = 1 is a perfect sphere, closer to 0 means less perfect.
 
