@@ -1,3 +1,4 @@
 ImarisFiles/
 Segmentation_Outputs/
 .ipynb_checkpoints/
+*.pdf

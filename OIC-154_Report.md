@@ -67,4 +67,8 @@ Example of measurement table:
 
 ## Notes
 
+Cellpose training worked very well to clean up and improve the segmentation results. When finer Z-resolution data is collect, I suspect that a model trained on that data will yield very informal shape measurements for grouping microglia into their different states.
+
 ### Optional Analyses - what other information could you get from this data
+- A Sholl analysis could be added to assess branching of microglia
+- Nearest neighbor distances could be calculated to assess clustering and distribution
