@@ -11,7 +11,7 @@ Research supported by the Optical Imaging Core should be acknowledged and consid
 Please include our RRID in the methods section for any research supported by the OIC. RRID:SCR_021968
 
 ### Sample Acknowledgement
->
+
 >We thank the Van Andel Institute Optical Imaging Core (RRID:SCR_021968), especially [staff name], for their assistance with [technique/technology]. This research was supported in part by the Van Andel Institute Optical Imaging Core (RRID:SCR_021968) (Grand Rapids, MI).
 
 ## Summary of Request
